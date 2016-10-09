@@ -1,5 +1,7 @@
 package com.danil.gorchakov;
 
+
+//http://acm.timus.ru/problem.aspx?space=1&num=1263
 import java.util.Scanner;
 
 public class Elections {
